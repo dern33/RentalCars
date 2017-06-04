@@ -1,0 +1,27 @@
+{
+  "Search": {
+    "VehicleList": [
+      {
+        "sipp": "CDMR",
+        "name": "Test car 3",
+        "price": 150.60,
+        "supplier": "Test supplier 3",
+        "rating": 8.9
+      },
+      {
+        "sipp": "FVAR",
+        "name": "Test car 1",
+        "price": 40.70,
+        "supplier": "Test supplier 1",
+        "rating": 1.9
+      },
+      {
+        "sipp": "IWMR",
+        "name": "Test car 2",
+        "price": 90.85,
+        "supplier": "Test supplier 2",
+        "rating": 5.9
+      }
+    ]
+  }
+}
